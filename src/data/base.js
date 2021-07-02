@@ -11,7 +11,7 @@ const base = [
 	'Trust your instinct',
 	'Totally!',
 	'PANIC!',
-	'That\'s between you and god now, son',
+	'That\'s between you and god now, son...',
 ]
 
 

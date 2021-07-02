@@ -21,6 +21,7 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 node_modules
+.expo
 
 
 # Gradle
@@ -113,3 +114,4 @@ package-lock.json
 
 # Android memory profiler files
 *.hprof
+.expo/web/cache/development/babel-loader/0e44dd8a46a79d7392a1a6e476cf821c.json
